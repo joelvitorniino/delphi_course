@@ -1,0 +1,16 @@
+# Arquivos de configuração do Delphi
+*.local
+*.identcache
+*.dsk
+*.dproj.local
+*.groupproj.local
+*.exe
+*.dll
+*.bpl
+*.aci
+*.cache
+__history/
+ModelSupport/
+*.~*
+*.tvsconfig
+*.tvsstate
