@@ -54,7 +54,6 @@ object Form2: TForm2
     Height = 17
     Caption = 'Female'
     TabOrder = 3
-    OnClick = RadioButton2Click
   end
   object Button1: TButton
     Left = 232
